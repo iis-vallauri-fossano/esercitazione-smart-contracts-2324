@@ -1,11 +1,8 @@
-![smart-contracts-development-template logo](assets/logo.png)
+# Smart Contracts Repository Template
 
-# Tryvium Smart Contracts Repository Template
+![GitHub](https://img.shields.io/github/license/iis-vallauri-fossano/esercitazione-smart-contracts-2324?style=flat-square)
 
-![GitHub](https://img.shields.io/github/license/tryvium-travels/smart-contracts-development-template?style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/tryviumtravels?style=social)
-
-The Tryvium Smart Contracts repository, based on Waffle, Typescript, used to create decentralized projects from a solid base.
+The Smart Contracts Development kit repository, based on Waffle, Typescript, used to create decentralized projects from a solid base.
 
 This template includes an Example ERC20 implementation with tests.
 
