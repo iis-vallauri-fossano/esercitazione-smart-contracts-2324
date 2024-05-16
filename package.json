@@ -1,0 +1,35 @@
+{
+  "name": "smart-contracts",
+  "version": "0.0.2",
+  "description": "The Tryvium Smart Contracts repository, based on Waffle, Typescript",
+  "main": "index.js",
+  "repository": "git@github.com:tryvium-travels/smart-contracts.git",
+  "author": "Tryvium Travels LTD",
+  "license": "MIT",
+  "scripts": {
+    "build": "hardhat compile",
+    "flatten": "waffle flatten",
+    "test": "yarn build && hardhat test"
+  },
+  "devDependencies": {
+    "@atixlabs/hardhat-time-n-mine": "^0.0.5",
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.8.0",
+    "@typechain/ethers-v5": "^10.1.1",
+    "@typechain/hardhat": "^6.1.4",
+    "@types/chai": "^4.3.4",
+    "@types/mocha": "^10.0.0",
+    "@types/node": "^18.11.9",
+    "chai": "^4.3.7",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.2",
+    "hardhat-gas-reporter": "^1.0.9",
+    "mocha": "^10.1.0",
+    "ts-node": "^10.9.1",
+    "typechain": "^8.1.1",
+    "typescript": "4.9.3"
+  },
+  "packageManager": "yarn@3.2.1"
+}
