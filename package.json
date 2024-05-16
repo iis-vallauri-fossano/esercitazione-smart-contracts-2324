@@ -1,9 +1,9 @@
 {
   "name": "smart-contracts",
   "version": "0.0.2",
-  "description": "The Tryvium Smart Contracts repository, based on Waffle, Typescript",
+  "description": "The Smart Contracts Devkit repository, based on Waffle, Typescript",
   "main": "index.js",
-  "repository": "git@github.com:tryvium-travels/smart-contracts.git",
+  "repository": "git@github.com:iis-vallauri-fossano/esercitazione-smart-contracts-2324.git",
   "author": "Tryvium Travels LTD",
   "license": "MIT",
   "scripts": {
